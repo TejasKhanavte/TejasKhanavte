@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Khanavate</h1>
-<h3 align="center">A passionate Full Stack Developer, Cybersecurity Analyst, and Technical Trainer</h3>
+<h3 align="center">A passionate Data Analyst, Cybersecurity Analyst,Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
