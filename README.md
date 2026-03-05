@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Khanavate</h1>
-<h3 align="center">A passionate Full Stack Developer, Mentor, and Technical Trainer</h3>
+<h3 align="center">A passionate Full Stack Developer, Cybersecurity Analyst, and Technical Trainer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -12,7 +12,7 @@
   <a href="tejaskhanavate1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/iam_adi29">
+  <a href="https://www.instagram.com/tejas_khanavate_96k/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <!-- Add your LinkedIn or Twitter here if you want! -->
