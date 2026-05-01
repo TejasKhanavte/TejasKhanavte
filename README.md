@@ -115,7 +115,7 @@ I’m *Tejas Khanavate*, a passionate Data Analyst, Cybersecurity Analyst,Full S
 
   
   <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aspatil0&theme=dark&hide_border=false" alt="aspatil0's GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Tejaskhanavte&theme=dark&hide_border=false" alt="aspatil0's GitHub Streak" />
 </div>
 
 <br>
